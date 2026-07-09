@@ -16,7 +16,7 @@ public final class AnnexSDK {
 
     public func initialize() {
 
-        SDKManager.shared.setup()
+        SDKManager.shared.setup() 
 
     }
 
