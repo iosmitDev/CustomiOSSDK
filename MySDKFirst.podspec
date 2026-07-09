@@ -27,9 +27,7 @@ DESC
       :git => "https://github.com/iosmitDev/CustomiOSSDK.git",
       :tag => s.version.to_s
   }
-
-  s.source_files     = "Sources/**/*.{swift}"
-  
+s.source_files     = "MySDKFirst/**/*.{swift}"
   s.requires_arc     = true
 
 end
