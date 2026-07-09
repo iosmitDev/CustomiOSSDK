@@ -1,0 +1,46 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/heena/Library/Developer/Xcode/DerivedData/MySDKFirst-cbpndbcxelwrgnfqxauoyawkbwwc/Build/Intermediates.noindex/ArchiveIntermediates/MySDKFirst/InstallationBuildProductsLocation/Library/Frameworks/MySDKFirst.framework/MySDKFirst'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x55E1D, size: 0x8, addend: 0x0, symName: _MySDKFirstVersionString, symObjAddr: 0x0, symBinAddr: 0x1AB0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x55E52, size: 0x8, addend: 0x0, symName: _MySDKFirstVersionNumber, symObjAddr: 0x30, symBinAddr: 0x1AE0, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x55EB7, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKC6sharedACvpZ', symObjAddr: 0x2B0, symBinAddr: 0x34F8, symSize: 0x0 }
+  - { offsetInCU: 0xDA, offset: 0x55F42, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0xF40, symSize: 0x30 }
+  - { offsetInCU: 0x1F9, offset: 0x56061, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x230, symBinAddr: 0x1170, symSize: 0x40 }
+  - { offsetInCU: 0x20D, offset: 0x56075, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKCMa', symObjAddr: 0x270, symBinAddr: 0x11B0, symSize: 0x20 }
+  - { offsetInCU: 0x319, offset: 0x56181, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKC6sharedACvgZ', symObjAddr: 0x30, symBinAddr: 0xF70, symSize: 0x30 }
+  - { offsetInCU: 0x38D, offset: 0x561F5, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKC10initializeyyF', symObjAddr: 0x60, symBinAddr: 0xFA0, symSize: 0xE0 }
+  - { offsetInCU: 0x4C9, offset: 0x56331, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKCfd', symObjAddr: 0x200, symBinAddr: 0x1140, symSize: 0x10 }
+  - { offsetInCU: 0x4EC, offset: 0x56354, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst8AnnexSDKCfD', symObjAddr: 0x210, symBinAddr: 0x1150, symSize: 0x20 }
+  - { offsetInCU: 0x27, offset: 0x563A3, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x11F0, symSize: 0xE0 }
+  - { offsetInCU: 0x61, offset: 0x563DD, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerC11viewDidLoadyyFTo', symObjAddr: 0xE0, symBinAddr: 0x12D0, symSize: 0x30 }
+  - { offsetInCU: 0x9D, offset: 0x56419, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x110, symBinAddr: 0x1300, symSize: 0xB0 }
+  - { offsetInCU: 0xF7, offset: 0x56473, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x1C0, symBinAddr: 0x13B0, symSize: 0x40 }
+  - { offsetInCU: 0x155, offset: 0x564D1, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerCMa', symObjAddr: 0x230, symBinAddr: 0x1420, symSize: 0x14 }
+  - { offsetInCU: 0x241, offset: 0x565BD, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x11F0, symSize: 0xE0 }
+  - { offsetInCU: 0x2C4, offset: 0x56640, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst21ProfileViewControllerCfD', symObjAddr: 0x200, symBinAddr: 0x13F0, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x5668A, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst6RouterC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x1440, symSize: 0x30 }
+  - { offsetInCU: 0x4B, offset: 0x566AE, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst6RouterC6sharedACvpZ', symObjAddr: 0x14E8, symBinAddr: 0x3758, symSize: 0x0 }
+  - { offsetInCU: 0x92, offset: 0x566F5, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst6RouterC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x1440, symSize: 0x30 }
+  - { offsetInCU: 0xC2, offset: 0x56725, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst6RouterCMa', symObjAddr: 0x50, symBinAddr: 0x1490, symSize: 0x14 }
+  - { offsetInCU: 0x161, offset: 0x567C4, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst6RouterCfD', symObjAddr: 0x30, symBinAddr: 0x1470, symSize: 0x20 }
+  - { offsetInCU: 0x27, offset: 0x5680E, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst10SDKManagerC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x14B0, symSize: 0x30 }
+  - { offsetInCU: 0x4B, offset: 0x56832, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst10SDKManagerC6sharedACvpZ', symObjAddr: 0x1518, symBinAddr: 0x3760, symSize: 0x0 }
+  - { offsetInCU: 0x92, offset: 0x56879, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst10SDKManagerC6shared_WZ', symObjAddr: 0x0, symBinAddr: 0x14B0, symSize: 0x30 }
+  - { offsetInCU: 0xC2, offset: 0x568A9, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst10SDKManagerCMa', symObjAddr: 0x50, symBinAddr: 0x1500, symSize: 0x14 }
+  - { offsetInCU: 0x15F, offset: 0x56946, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst10SDKManagerCfD', symObjAddr: 0x30, symBinAddr: 0x14E0, symSize: 0x20 }
+  - { offsetInCU: 0x27, offset: 0x56990, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x1520, symSize: 0xE0 }
+  - { offsetInCU: 0x61, offset: 0x569CA, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerC11viewDidLoadyyFTo', symObjAddr: 0xE0, symBinAddr: 0x1600, symSize: 0x30 }
+  - { offsetInCU: 0x9D, offset: 0x56A06, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x110, symBinAddr: 0x1630, symSize: 0xA0 }
+  - { offsetInCU: 0xF7, offset: 0x56A60, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x1B0, symBinAddr: 0x16D0, symSize: 0x40 }
+  - { offsetInCU: 0x153, offset: 0x56ABC, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerCMa', symObjAddr: 0x220, symBinAddr: 0x1740, symSize: 0x14 }
+  - { offsetInCU: 0x22C, offset: 0x56B95, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x1520, symSize: 0xE0 }
+  - { offsetInCU: 0x2AF, offset: 0x56C18, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst18HomeViewControllerCfD', symObjAddr: 0x1F0, symBinAddr: 0x1710, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x56C62, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x1760, symSize: 0xE0 }
+  - { offsetInCU: 0x61, offset: 0x56C9C, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerC11viewDidLoadyyFTo', symObjAddr: 0xE0, symBinAddr: 0x1840, symSize: 0x30 }
+  - { offsetInCU: 0x9D, offset: 0x56CD8, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x110, symBinAddr: 0x1870, symSize: 0xB0 }
+  - { offsetInCU: 0xF7, offset: 0x56D32, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x1C0, symBinAddr: 0x1920, symSize: 0x40 }
+  - { offsetInCU: 0x155, offset: 0x56D90, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerCMa', symObjAddr: 0x230, symBinAddr: 0x1990, symSize: 0x14 }
+  - { offsetInCU: 0x22E, offset: 0x56E69, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerC11viewDidLoadyyF', symObjAddr: 0x0, symBinAddr: 0x1760, symSize: 0xE0 }
+  - { offsetInCU: 0x2B1, offset: 0x56EEC, size: 0x8, addend: 0x0, symName: '_$s10MySDKFirst22SettingsViewControllerCfD', symObjAddr: 0x200, symBinAddr: 0x1960, symSize: 0x30 }
+...

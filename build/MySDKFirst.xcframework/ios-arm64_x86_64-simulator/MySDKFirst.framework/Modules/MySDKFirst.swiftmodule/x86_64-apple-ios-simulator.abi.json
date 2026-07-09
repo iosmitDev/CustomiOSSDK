@@ -1,0 +1,270 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AnnexSDK",
+        "printedName": "AnnexSDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnnexSDK",
+                "printedName": "MySDKFirst.AnnexSDK",
+                "usr": "s:10MySDKFirst8AnnexSDKC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10MySDKFirst8AnnexSDKC6sharedACvpZ",
+            "mangledName": "$s10MySDKFirst8AnnexSDKC6sharedACvpZ",
+            "moduleName": "MySDKFirst",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnnexSDK",
+                    "printedName": "MySDKFirst.AnnexSDK",
+                    "usr": "s:10MySDKFirst8AnnexSDKC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10MySDKFirst8AnnexSDKC6sharedACvgZ",
+                "mangledName": "$s10MySDKFirst8AnnexSDKC6sharedACvgZ",
+                "moduleName": "MySDKFirst",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MySDKFirst8AnnexSDKC10initializeyyF",
+            "mangledName": "$s10MySDKFirst8AnnexSDKC10initializeyyF",
+            "moduleName": "MySDKFirst",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "homeViewController",
+            "printedName": "homeViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MySDKFirst8AnnexSDKC18homeViewControllerSo06UIViewG0CyF",
+            "mangledName": "$s10MySDKFirst8AnnexSDKC18homeViewControllerSo06UIViewG0CyF",
+            "moduleName": "MySDKFirst",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "profileViewController",
+            "printedName": "profileViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MySDKFirst8AnnexSDKC21profileViewControllerSo06UIViewG0CyF",
+            "mangledName": "$s10MySDKFirst8AnnexSDKC21profileViewControllerSo06UIViewG0CyF",
+            "moduleName": "MySDKFirst",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "settingsViewController",
+            "printedName": "settingsViewController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10MySDKFirst8AnnexSDKC22settingsViewControllerSo06UIViewG0CyF",
+            "mangledName": "$s10MySDKFirst8AnnexSDKC22settingsViewControllerSo06UIViewG0CyF",
+            "moduleName": "MySDKFirst",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10MySDKFirst8AnnexSDKC",
+        "mangledName": "$s10MySDKFirst8AnnexSDKC",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MySDKFirst",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
